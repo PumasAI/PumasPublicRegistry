@@ -1,0 +1,5 @@
+name = "PumasPublicRegistry"
+uuid = "520a0f63-b2d4-4225-8b9a-7f2e3b94dc7e"
+repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
+
+[packages]
