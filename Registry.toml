@@ -3,4 +3,5 @@ uuid = "520a0f63-b2d4-4225-8b9a-7f2e3b94dc7e"
 repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 
 [packages]
+1ad3e620-8996-5565-b8b0-a1489189912b = { name = "BundleLoader_jll", path = "jll/B/BundleLoader_jll" }
 ea2c2f5b-d23d-53da-ad7e-0e62c0a9a2e9 = { name = "LicenseSpring_jll", path = "jll/L/LicenseSpring_jll" }
