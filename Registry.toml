@@ -4,6 +4,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 
 [packages]
 0c61e9cd-e02e-46f2-b961-0746d5a16e3b = { name = "PumasPlots", path = "P/PumasPlots" }
+148d11e5-1dc2-44df-acfd-e08afda85aab = { name = "PumasUtilities", path = "P/PumasUtilities" }
 1ad3e620-8996-5565-b8b0-a1489189912b = { name = "BundleLoader_jll", path = "jll/B/BundleLoader_jll" }
 1ceaab83-7ac3-4b16-bfc1-5dcd3355b9fc = { name = "PharmaDatasets", path = "P/PharmaDatasets" }
 29142fd5-e082-4e84-b14f-4d7220ed3f6b = { name = "NCA", path = "N/NCA" }
