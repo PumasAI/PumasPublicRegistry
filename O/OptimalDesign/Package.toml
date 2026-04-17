@@ -1,0 +1,4 @@
+name = "OptimalDesign"
+uuid = "d6cf976a-83e7-4639-b821-ec981d9db60f"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "OptimalDesign"
