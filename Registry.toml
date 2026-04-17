@@ -4,4 +4,5 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 
 [packages]
 1ad3e620-8996-5565-b8b0-a1489189912b = { name = "BundleLoader_jll", path = "jll/B/BundleLoader_jll" }
+9917063f-2058-41b5-840d-9b2f14f3c56b = { name = "ADaM", path = "A/ADaM" }
 ea2c2f5b-d23d-53da-ad7e-0e62c0a9a2e9 = { name = "LicenseSpring_jll", path = "jll/L/LicenseSpring_jll" }
