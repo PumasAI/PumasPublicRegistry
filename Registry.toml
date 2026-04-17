@@ -9,6 +9,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 291c1e0f-52e3-4e13-8e48-890190cbb865 = { name = "DeepPumas", path = "D/DeepPumas" }
 2f4423a0-93c9-3aaa-2623-41efdc8aa38c = { name = "ProjectTools", path = "P/ProjectTools" }
 4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
+64b04e06-7d07-4375-ba74-156fd37fde69 = { name = "ProvenanceTracking", path = "P/ProvenanceTracking" }
 8b92943f-4587-47ba-ba47-ab67d84475e1 = { name = "PlottingUtilities", path = "P/PlottingUtilities" }
 9917063f-2058-41b5-840d-9b2f14f3c56b = { name = "ADaM", path = "A/ADaM" }
 b07d0016-ecca-2b7f-264d-3a505699250f = { name = "NCAUtilities", path = "N/NCAUtilities" }
