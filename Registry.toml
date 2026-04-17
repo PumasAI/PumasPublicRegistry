@@ -13,6 +13,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 49473f6d-bbbf-4d00-9d1b-82590ab4af72 = { name = "PumasClusterUtilities", path = "P/PumasClusterUtilities" }
 4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
 4f2c3c20-a4ac-11e9-067b-e5872d3484cf = { name = "Pumas", path = "P/Pumas" }
+5fded309-f5a0-485a-9129-b3749510da85 = { name = "QuartoTools", path = "Q/QuartoTools" }
 64b04e06-7d07-4375-ba74-156fd37fde69 = { name = "ProvenanceTracking", path = "P/ProvenanceTracking" }
 897a97e8-f25b-4076-8194-e4d31e8eeae9 = { name = "PumasAide", path = "P/PumasAide" }
 8b92943f-4587-47ba-ba47-ab67d84475e1 = { name = "PlottingUtilities", path = "P/PlottingUtilities" }
