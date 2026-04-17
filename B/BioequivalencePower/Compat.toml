@@ -1,6 +1,5 @@
 [0]
 Accessors = "0.1"
-CairoMakie = ["0.10", "0.12"]
 ConjugatePriors = "0.5"
 DataFrames = "1"
 Distributions = "0.25"
@@ -13,3 +12,9 @@ Parameters = "0.12"
 QuadGK = "2"
 Roots = "2"
 SpecialFunctions = "2"
+
+["0-0.1.4"]
+CairoMakie = ["0.10", "0.12"]
+
+["0.1.5-0"]
+CairoMakie = ["0.10", "0.12-0.13"]
