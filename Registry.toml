@@ -4,6 +4,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 
 [packages]
 1ad3e620-8996-5565-b8b0-a1489189912b = { name = "BundleLoader_jll", path = "jll/B/BundleLoader_jll" }
+29142fd5-e082-4e84-b14f-4d7220ed3f6b = { name = "NCA", path = "N/NCA" }
 291c1e0f-52e3-4e13-8e48-890190cbb865 = { name = "DeepPumas", path = "D/DeepPumas" }
 4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
 9917063f-2058-41b5-840d-9b2f14f3c56b = { name = "ADaM", path = "A/ADaM" }
