@@ -1,0 +1,4 @@
+name = "BioequivalencePower"
+uuid = "daaf709a-1d9f-453a-994f-ee50a12794bc"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "BioequivalencePower"
