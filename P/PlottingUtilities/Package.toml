@@ -1,0 +1,4 @@
+name = "PlottingUtilities"
+uuid = "8b92943f-4587-47ba-ba47-ab67d84475e1"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "PlottingUtilities"
