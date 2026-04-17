@@ -8,4 +8,5 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
 9917063f-2058-41b5-840d-9b2f14f3c56b = { name = "ADaM", path = "A/ADaM" }
 daaf709a-1d9f-453a-994f-ee50a12794bc = { name = "BioequivalencePower", path = "B/BioequivalencePower" }
+e241c0f9-2941-4184-86f1-92558f4420e8 = { name = "JuliaHubData", path = "J/JuliaHubData" }
 ea2c2f5b-d23d-53da-ad7e-0e62c0a9a2e9 = { name = "LicenseSpring_jll", path = "jll/L/LicenseSpring_jll" }
