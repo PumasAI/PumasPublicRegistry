@@ -4,3 +4,6 @@ ClusterManagers = "34f1f09b-3a8b-5176-ab39-66d58a4d544e"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 PumasLicenseManager = "ebe2103e-d13d-42b7-8b52-0fb178cf1234"
 SlurmClusterManager = "c82cd089-7bf7-41d7-976b-6b5d413cbe0a"
+
+["0.1.2-0"]
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
