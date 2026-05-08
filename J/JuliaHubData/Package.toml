@@ -1,0 +1,4 @@
+name = "JuliaHubData"
+uuid = "e241c0f9-2941-4184-86f1-92558f4420e8"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "JuliaHubData"
