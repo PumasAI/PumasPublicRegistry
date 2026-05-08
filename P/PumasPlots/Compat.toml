@@ -12,13 +12,25 @@ MCMCChains = "6.0.3-6"
 PlottingUtilities = "0.15"
 Pumas = "2.6.0-2"
 
-["0.11-0"]
+["0.11"]
 AlgebraOfGraphics = "0.10"
 CairoMakie = "0.12-0.13"
 DataInterpolations = "8"
-DocStringExtensions = "0.8-0.9"
-Loess = "0.6"
 MCMCChains = "6"
 Optim = "1"
 PlottingUtilities = "0.18.2-0.18"
 Pumas = "2.7.0-2"
+
+["0.11-0"]
+DocStringExtensions = "0.8-0.9"
+Loess = "0.6"
+
+["0.12-0"]
+AlgebraOfGraphics = "0.12"
+CairoMakie = "0.15"
+Interpolations = "0.16"
+MCMCChains = "6-7"
+Makie = "0.24.8-0.24"
+Optim = "2"
+PlottingUtilities = "0.19"
+Pumas = "2.8"
