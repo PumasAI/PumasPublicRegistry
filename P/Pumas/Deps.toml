@@ -123,3 +123,6 @@ NLSolversBase = "d41bc354-129a-5804-8e4c-c37616107c6c"
 OhMyThreads = "67456a42-1dca-4109-a031-0a68de7e3ad5"
 SplitApplyCombine = "03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66"
 StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+
+["2.8.1-2"]
+ConstructionBase = "187b0558-2788-49d3-abe0-74a17ed4e7c9"
