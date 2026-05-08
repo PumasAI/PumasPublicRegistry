@@ -16,7 +16,6 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
 NamedArrays = "86f7a689-2022-50b4-a561-43c23ac3c673"
 OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
-OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
 Pajarito = "2f354839-79df-5901-9f0a-cdb2aac6fe30"
 Pavito = "cd433a01-47d1-575d-afb7-6db927ee8d8f"
 Pumas = "4f2c3c20-a4ac-11e9-067b-e5872d3484cf"
@@ -27,3 +26,9 @@ SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
 TransformVariables = "84d833dd-6860-57f9-a1a7-6da5db126cff"
+
+["0-0.5"]
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+
+["0.6-0"]
+DiffEqBase = "2b5f629d-d688-5b77-993f-72d75c75574e"
