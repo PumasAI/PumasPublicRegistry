@@ -1,0 +1,4 @@
+name = "DeepPumas"
+uuid = "291c1e0f-52e3-4e13-8e48-890190cbb865"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "DeepPumas"
