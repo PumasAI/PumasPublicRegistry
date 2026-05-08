@@ -26,7 +26,6 @@ DocStringExtensions = "0.8-0.9"
 Loess = "0.6"
 
 ["0.12-0"]
-AlgebraOfGraphics = "0.12"
 CairoMakie = "0.15"
 Interpolations = "0.16"
 MCMCChains = "6-7"
@@ -34,3 +33,9 @@ Makie = "0.24.8-0.24"
 Optim = "2"
 PlottingUtilities = "0.19"
 Pumas = "2.8"
+
+["0.12-0.12.5"]
+AlgebraOfGraphics = "0.12"
+
+["0.12.7-0"]
+AlgebraOfGraphics = "0.12.4-0.12"
