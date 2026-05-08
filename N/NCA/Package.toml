@@ -1,0 +1,4 @@
+name = "NCA"
+uuid = "29142fd5-e082-4e84-b14f-4d7220ed3f6b"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "NCA"
