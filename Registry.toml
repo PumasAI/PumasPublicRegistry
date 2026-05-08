@@ -15,6 +15,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 5fded309-f5a0-485a-9129-b3749510da85 = { name = "QuartoTools", path = "Q/QuartoTools" }
 64b04e06-7d07-4375-ba74-156fd37fde69 = { name = "ProvenanceTracking", path = "P/ProvenanceTracking" }
 8b92943f-4587-47ba-ba47-ab67d84475e1 = { name = "PlottingUtilities", path = "P/PlottingUtilities" }
+9917063f-2058-41b5-840d-9b2f14f3c56b = { name = "ADaM", path = "A/ADaM" }
 b07d0016-ecca-2b7f-264d-3a505699250f = { name = "NCAUtilities", path = "N/NCAUtilities" }
 c743b482-f8db-431f-9b57-fa6852ce5b57 = { name = "PumasReports", path = "P/PumasReports" }
 d6cf976a-83e7-4639-b821-ec981d9db60f = { name = "OptimalDesign", path = "O/OptimalDesign" }
