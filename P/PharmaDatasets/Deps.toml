@@ -6,5 +6,7 @@ DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 PumasLicenseManager = "ebe2103e-d13d-42b7-8b52-0fb178cf1234"
 REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 ReadStatTables = "52522f7a-9570-4e34-8ac6-c005c74d4b84"
-RelocatableFolders = "05181044-ff0b-4ac5-8273-598c1e38db00"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+["0-0.12"]
+RelocatableFolders = "05181044-ff0b-4ac5-8273-598c1e38db00"
