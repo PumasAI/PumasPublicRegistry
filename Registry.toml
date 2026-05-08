@@ -4,3 +4,4 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 
 [packages]
 1ad3e620-8996-5565-b8b0-a1489189912b = { name = "BundleLoader_jll", path = "jll/B/BundleLoader_jll" }
+4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
