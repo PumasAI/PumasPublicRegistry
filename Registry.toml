@@ -14,4 +14,5 @@ b07d0016-ecca-2b7f-264d-3a505699250f = { name = "NCAUtilities", path = "N/NCAUti
 d6cf976a-83e7-4639-b821-ec981d9db60f = { name = "OptimalDesign", path = "O/OptimalDesign" }
 daaf709a-1d9f-453a-994f-ee50a12794bc = { name = "BioequivalencePower", path = "B/BioequivalencePower" }
 e241c0f9-2941-4184-86f1-92558f4420e8 = { name = "JuliaHubData", path = "J/JuliaHubData" }
+ebe2103e-d13d-42b7-8b52-0fb178cf1234 = { name = "PumasLicenseManager", path = "P/PumasLicenseManager" }
 ebe2103e-d13d-42b7-8b52-0fb178cf3cda = { name = "LicenseSpring", path = "L/LicenseSpring" }
