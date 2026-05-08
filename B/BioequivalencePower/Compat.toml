@@ -1,0 +1,15 @@
+[0]
+Accessors = "0.1"
+CairoMakie = ["0.10", "0.12"]
+ConjugatePriors = "0.5"
+DataFrames = "1"
+Distributions = "0.25"
+FFTW = "1.6.0-1"
+GLM = "1"
+HCubature = "1"
+HypothesisTests = "0.10-0.11"
+MKL_jll = "2021-2022"
+Parameters = "0.12"
+QuadGK = "2"
+Roots = "2"
+SpecialFunctions = "2"
