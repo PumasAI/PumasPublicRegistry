@@ -1,0 +1,4 @@
+name = "PharmaDatasets"
+uuid = "1ceaab83-7ac3-4b16-bfc1-5dcd3355b9fc"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "PharmaDatasets"
