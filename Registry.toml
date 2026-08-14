@@ -1,22 +1,75 @@
 name = "PumasPublicRegistry"
-uuid = "520a0f63-b2d4-4225-8b9a-7f2e3b94dc7e"
 repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
+uuid = "520a0f63-b2d4-4225-8b9a-7f2e3b94dc7e"
 
-[packages]
-0c61e9cd-e02e-46f2-b961-0746d5a16e3b = { name = "PumasPlots", path = "P/PumasPlots" }
-148d11e5-1dc2-44df-acfd-e08afda85aab = { name = "PumasUtilities", path = "P/PumasUtilities" }
-1ad3e620-8996-5565-b8b0-a1489189912b = { name = "BundleLoader_jll", path = "jll/B/BundleLoader_jll" }
-1ceaab83-7ac3-4b16-bfc1-5dcd3355b9fc = { name = "PharmaDatasets", path = "P/PharmaDatasets" }
-29142fd5-e082-4e84-b14f-4d7220ed3f6b = { name = "NCA", path = "N/NCA" }
-4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
-4f2c3c20-a4ac-11e9-067b-e5872d3484cf = { name = "Pumas", path = "P/Pumas" }
-5fded309-f5a0-485a-9129-b3749510da85 = { name = "QuartoTools", path = "Q/QuartoTools" }
-64b04e06-7d07-4375-ba74-156fd37fde69 = { name = "ProvenanceTracking", path = "P/ProvenanceTracking" }
-8b92943f-4587-47ba-ba47-ab67d84475e1 = { name = "PlottingUtilities", path = "P/PlottingUtilities" }
-b07d0016-ecca-2b7f-264d-3a505699250f = { name = "NCAUtilities", path = "N/NCAUtilities" }
-c743b482-f8db-431f-9b57-fa6852ce5b57 = { name = "PumasReports", path = "P/PumasReports" }
-d6cf976a-83e7-4639-b821-ec981d9db60f = { name = "OptimalDesign", path = "O/OptimalDesign" }
-daaf709a-1d9f-453a-994f-ee50a12794bc = { name = "BioequivalencePower", path = "B/BioequivalencePower" }
-e241c0f9-2941-4184-86f1-92558f4420e8 = { name = "JuliaHubData", path = "J/JuliaHubData" }
-ebe2103e-d13d-42b7-8b52-0fb178cf1234 = { name = "PumasLicenseManager", path = "P/PumasLicenseManager" }
-ebe2103e-d13d-42b7-8b52-0fb178cf3cda = { name = "LicenseSpring", path = "L/LicenseSpring" }
+[packages.0c61e9cd-e02e-46f2-b961-0746d5a16e3b]
+name = "PumasPlots"
+path = "P/PumasPlots"
+
+[packages.148d11e5-1dc2-44df-acfd-e08afda85aab]
+name = "PumasUtilities"
+path = "P/PumasUtilities"
+
+[packages.1ad3e620-8996-5565-b8b0-a1489189912b]
+name = "BundleLoader_jll"
+path = "jll/B/BundleLoader_jll"
+
+[packages.1ceaab83-7ac3-4b16-bfc1-5dcd3355b9fc]
+name = "PharmaDatasets"
+path = "P/PharmaDatasets"
+
+[packages.29142fd5-e082-4e84-b14f-4d7220ed3f6b]
+name = "NCA"
+path = "N/NCA"
+
+[packages.4ece37e6-a012-11e8-38cd-91247efc2c34]
+name = "Bioequivalence"
+path = "B/Bioequivalence"
+
+[packages.4f2c3c20-a4ac-11e9-067b-e5872d3484cf]
+name = "Pumas"
+path = "P/Pumas"
+
+[packages.5fded309-f5a0-485a-9129-b3749510da85]
+name = "QuartoTools"
+path = "Q/QuartoTools"
+
+[packages.64b04e06-7d07-4375-ba74-156fd37fde69]
+name = "ProvenanceTracking"
+path = "P/ProvenanceTracking"
+
+[packages.8b92943f-4587-47ba-ba47-ab67d84475e1]
+name = "PlottingUtilities"
+path = "P/PlottingUtilities"
+
+[packages.b07d0016-ecca-2b7f-264d-3a505699250f]
+name = "NCAUtilities"
+path = "N/NCAUtilities"
+
+[packages.c743b482-f8db-431f-9b57-fa6852ce5b57]
+name = "PumasReports"
+path = "P/PumasReports"
+
+[packages.d6cf976a-83e7-4639-b821-ec981d9db60f]
+name = "OptimalDesign"
+path = "O/OptimalDesign"
+
+[packages.daaf709a-1d9f-453a-994f-ee50a12794bc]
+name = "BioequivalencePower"
+path = "B/BioequivalencePower"
+
+[packages.e241c0f9-2941-4184-86f1-92558f4420e8]
+name = "JuliaHubData"
+path = "J/JuliaHubData"
+
+[packages.ea2c2f5b-d23d-53da-ad7e-0e62c0a9a2e9]
+name = "LicenseSpring_jll"
+path = "jll/L/LicenseSpring_jll"
+
+[packages.ebe2103e-d13d-42b7-8b52-0fb178cf1234]
+name = "PumasLicenseManager"
+path = "P/PumasLicenseManager"
+
+[packages.ebe2103e-d13d-42b7-8b52-0fb178cf3cda]
+name = "LicenseSpring"
+path = "L/LicenseSpring"
