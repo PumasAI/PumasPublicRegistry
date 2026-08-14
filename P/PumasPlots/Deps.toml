@@ -11,3 +11,7 @@ PlottingUtilities = "8b92943f-4587-47ba-ba47-ab67d84475e1"
 Pumas = "4f2c3c20-a4ac-11e9-067b-e5872d3484cf"
 PumasLicenseManager = "ebe2103e-d13d-42b7-8b52-0fb178cf1234"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+["0.11-0"]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
