@@ -1,0 +1,4 @@
+name = "PumasClusterUtilities"
+uuid = "49473f6d-bbbf-4d00-9d1b-82590ab4af72"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "PumasClusterUtilities"
