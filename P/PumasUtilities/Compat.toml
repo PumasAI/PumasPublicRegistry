@@ -1,0 +1,11 @@
+[0]
+DocStringExtensions = "0.8-0.9"
+NCA = "2"
+NCAUtilities = "0.12"
+PlottingUtilities = "0.15"
+ProvenanceTracking = "0.4.1-*"
+Pumas = "2"
+PumasPlots = "0.10"
+PumasReports = "0.7"
+Reexport = "1"
+julia = "1.7.0-1"
