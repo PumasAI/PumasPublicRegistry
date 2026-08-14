@@ -104,3 +104,7 @@ OrdinaryDiffEqTsit5 = "b1df2697-797e-41e3-8120-5422d3b24e4a"
 OrdinaryDiffEqVerner = "79d7bb75-1356-48c1-b8c0-6832512096c2"
 SciMLOperators = "c0aeaf25-5076-4817-a8d5-81caf7dfa961"
 StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
+
+["2.7.1-2"]
+InitialValues = "22cec73e-a1b8-11e9-2c92-598750a2cf9c"
+Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
