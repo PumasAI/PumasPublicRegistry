@@ -1,0 +1,4 @@
+name = "LicenseSpring"
+uuid = "ebe2103e-d13d-42b7-8b52-0fb178cf3cda"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "LicenseSpring"
