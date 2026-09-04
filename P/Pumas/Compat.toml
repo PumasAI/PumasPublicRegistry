@@ -188,3 +188,6 @@ SymbolicIndexingInterface = "0.3.44"
 SymbolicUtils = "3.32.0"
 Symbolics = "6.55.0"
 TransformVariables = "0.8.19-0.8"
+
+["2.8.1-2"]
+ConstructionBase = "1.6.0-1"
