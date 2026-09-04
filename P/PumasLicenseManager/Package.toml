@@ -1,0 +1,4 @@
+name = "PumasLicenseManager"
+uuid = "ebe2103e-d13d-42b7-8b52-0fb178cf1234"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "PumasLicenseManager"
