@@ -1,0 +1,4 @@
+name = "ProjectTools"
+uuid = "2f4423a0-93c9-3aaa-2623-41efdc8aa38c"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "ProjectTools"
