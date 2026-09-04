@@ -1,0 +1,4 @@
+name = "ADaM"
+uuid = "9917063f-2058-41b5-840d-9b2f14f3c56b"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "ADaM"
