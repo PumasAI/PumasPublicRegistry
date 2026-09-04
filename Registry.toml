@@ -7,6 +7,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 1ceaab83-7ac3-4b16-bfc1-5dcd3355b9fc = { name = "PharmaDatasets", path = "P/PharmaDatasets" }
 29142fd5-e082-4e84-b14f-4d7220ed3f6b = { name = "NCA", path = "N/NCA" }
 4ece37e6-a012-11e8-38cd-91247efc2c34 = { name = "Bioequivalence", path = "B/Bioequivalence" }
+4f2c3c20-a4ac-11e9-067b-e5872d3484cf = { name = "Pumas", path = "P/Pumas" }
 64b04e06-7d07-4375-ba74-156fd37fde69 = { name = "ProvenanceTracking", path = "P/ProvenanceTracking" }
 8b92943f-4587-47ba-ba47-ab67d84475e1 = { name = "PlottingUtilities", path = "P/PlottingUtilities" }
 b07d0016-ecca-2b7f-264d-3a505699250f = { name = "NCAUtilities", path = "N/NCAUtilities" }
