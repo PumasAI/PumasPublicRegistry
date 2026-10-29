@@ -20,6 +20,7 @@ repo = "https://github.com/PumasAI/PumasPublicRegistry.git"
 9917063f-2058-41b5-840d-9b2f14f3c56b = { name = "ADaM", path = "A/ADaM" }
 b07d0016-ecca-2b7f-264d-3a505699250f = { name = "NCAUtilities", path = "N/NCAUtilities" }
 c743b482-f8db-431f-9b57-fa6852ce5b57 = { name = "PumasReports", path = "P/PumasReports" }
+c9f38baf-2319-4e95-afe7-b0e117095bc4 = { name = "MCP", path = "M/MCP" }
 d6cf976a-83e7-4639-b821-ec981d9db60f = { name = "OptimalDesign", path = "O/OptimalDesign" }
 d7ff39e2-1200-46c4-ba70-340304138b68 = { name = "InVitroInVivoCorrelation", path = "I/InVitroInVivoCorrelation" }
 daaf709a-1d9f-453a-994f-ee50a12794bc = { name = "BioequivalencePower", path = "B/BioequivalencePower" }
