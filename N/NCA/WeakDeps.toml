@@ -1,2 +1,5 @@
-[2]
+[2-3]
 DynamicQuantities = "06fc5a27-2a28-4c7c-a15d-362465fb6821"
+
+[3]
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"

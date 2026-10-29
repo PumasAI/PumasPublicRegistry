@@ -1,21 +1,32 @@
 [2]
-BundleLoader_jll = "1ad3e620-8996-5565-b8b0-a1489189912b"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
-GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
-HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
-PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
-Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
-PumasLicenseManager = "ebe2103e-d13d-42b7-8b52-0fb178cf1234"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
-Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
-StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
-["2.6.13-2"]
+[2-3]
+BundleLoader_jll = "1ad3e620-8996-5565-b8b0-a1489189912b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+PumasLicenseManager = "ebe2103e-d13d-42b7-8b52-0fb178cf1234"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["2.6.13-3"]
 StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
+
+[3]
+AlgebraOfGraphics = "cbdf2221-f076-402e-a563-3d30da359d67"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+PlottingUtilities = "8b92943f-4587-47ba-ba47-ab67d84475e1"
+Showoff = "992d4aef-0814-514b-bc4d-f2e9a6c4116f"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+SummaryTables = "6ce4ecf0-73a7-4ce3-9fb4-80ebfe887b60"
