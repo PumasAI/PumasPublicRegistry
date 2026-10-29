@@ -1,0 +1,4 @@
+name = "InVitroInVivoCorrelation"
+uuid = "d7ff39e2-1200-46c4-ba70-340304138b68"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "InVitroInVivoCorrelation"

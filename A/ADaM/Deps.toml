@@ -12,3 +12,7 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 SummaryTables = "6ce4ecf0-73a7-4ce3-9fb4-80ebfe887b60"
 WriteDocx = "d049ceea-54ee-41d7-a26f-ba29db3b6599"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+["0.13-0"]
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

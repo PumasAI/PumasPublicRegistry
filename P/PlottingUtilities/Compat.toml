@@ -38,17 +38,27 @@ Makie = "0.21-0.22"
 
 ["0.18-0"]
 Colors = "0.13"
-CommonMark = "0.8-0.9"
 Dates = "1"
-JSON3 = "1"
 Markdown = "1"
 PlotlyBase = "0.8"
 SummaryTables = "3"
-Typst_jll = "0.13"
 julia = "1.10.0-1"
 
+["0.18-0.19.3"]
+CommonMark = "0.8-0.9"
+JSON3 = "1"
+Typst_jll = "0.13"
+
 ["0.19-0"]
-AlgebraOfGraphics = "0.11-0.12"
 CairoMakie = "0.15"
 CategoricalArrays = ["0.10", "1"]
 Makie = "0.24"
+
+["0.19-0.19.3"]
+AlgebraOfGraphics = "0.11-0.12"
+
+["0.19.8-0"]
+AlgebraOfGraphics = "0.12.5-0.13"
+CommonMark = ["0.8-0.10", "1"]
+JSON = "1.6.0-1"
+Typst_jll = "0.15"

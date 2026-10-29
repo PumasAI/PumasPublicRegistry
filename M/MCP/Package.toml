@@ -1,0 +1,4 @@
+name = "MCP"
+uuid = "c9f38baf-2319-4e95-afe7-b0e117095bc4"
+repo = "https://github.com/PumasAI/PumasBundledPackages.git"
+subdir = "MCP"
