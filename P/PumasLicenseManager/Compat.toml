@@ -1,9 +1,14 @@
 [0]
 Preferences = "1"
-julia = "1.7.0-1"
 
 ["0-0.3.0"]
 LicenseSpring = "0.2.5"
 
+["0-0.3.2"]
+julia = "1.7.0-1"
+
 ["0.3.1-0"]
 LicenseSpring = "0.2.6"
+
+["0.3.7-0"]
+julia = "1.10.0-1"
