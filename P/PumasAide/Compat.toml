@@ -1,23 +1,25 @@
 [1]
-AlgebraOfGraphics = "0.12"
 CategoricalArrays = "1"
 DataFrames = "1"
-Dates = "1"
 DynamicQuantities = "1"
+IOCapture = "1"
+REPL = "1"
+RelocatableFolders = "1"
+
+["1-1.1"]
+AlgebraOfGraphics = "0.12"
+Dates = "1"
 EnumX = "1"
 HTTP = "1"
 HypertextTemplates = "2"
-IOCapture = "1"
 InteractiveUtils = "1"
 JSON3 = "1"
 Makie = "0.24"
 NCA = "2"
 Preferences = "1"
 Pumas = "2.8.0-2"
-REPL = "1"
 Random = "1.11.0-1"
 ReloadableMiddleware = "2"
-RelocatableFolders = "1"
 Statistics = "1"
 StructTypes = "1"
 Tables = "1"
@@ -45,8 +47,20 @@ StringDistances = "0.11"
 SummaryTables = "3"
 URIs = "1"
 
-["1.1-1"]
-CommonMark = ["0.8-0.10", "1"]
+["1.1"]
 PrecompileTools = "1.2.0-1"
 Sockets = "1.11.0-1"
 SummaryTables = "1-3"
+
+["1.1-1"]
+CommonMark = ["0.8-0.10", "1"]
+
+["1.9-1"]
+HTTP = "2"
+JSON = "1"
+JuliaSyntaxHighlighting = "1"
+MCP = "1.5.0-1"
+Reseau = "1.4.0-1"
+StructUtils = "2"
+StyledStrings = "1"
+julia = "1.12.0-1"
