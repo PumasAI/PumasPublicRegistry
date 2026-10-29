@@ -15,15 +15,30 @@ permissions:
 jobs:
   finalize:
     timeout-minutes: 10
-    needs: [consistency]
+    needs: [consistency, trees]
     if: always()
     runs-on: ubuntu-latest
     steps:
       - run: |
           echo consistency: ${{ needs.consistency.result }}
+          echo trees: ${{ needs.trees.result }}
       - run: exit 1
         if: |
-          contains('failure cancelled', needs.consistency.result)
+          contains('failure cancelled', needs.consistency.result) ||
+          contains('failure cancelled', needs.trees.result)
+
+  trees:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: julia-actions/setup-julia@fa02766e078afaaf09b14210362cee14137e6a32 # v3.0.2
+        with:
+          version: '1'
+      - name: Check every registered tree is on its repo's default branch
+        run: julia --color=yes .ci/check_trees.jl
 
   consistency:
     runs-on: ubuntu-latest
